@@ -1,2 +1,40 @@
-# caxinha
-Caxinha bot npm
+# caxinha [![npm](https://img.shields.io/npm/v/caxinha.svg)](https://www.npmjs.com/package/caxinha) [![npm](https://img.shields.io/npm/dt/caxinha.svg?maxAge=3600)](https://www.npmjs.com/package/caxinha)
+
+## Installation
+[![NPM](https://nodei.co/npm/caxinha.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/caxinha/)
+
+### Canvas
+
+| Function  | Params |
+| -------- | ------ |
+| `triggered()` | `image` |
+| `affect()` | `image` |
+| `batslap()` | `image` `image2` |
+| `beautiful()` | `image` |
+| `blur()` | `image` |
+| `bnw()` | `image` |
+| `bolsonaro()` | `image` |
+| `circle()` | `image` |
+| `color()` | `image` |
+| `del()` | `image` |
+| `dither()` | `image` |
+| `facepalm()` | `image` |
+| `gay()` | `image` |
+| `invert()` | `image` |
+| `jail()` | `image` |
+| `kiss()` | `image` `image2` |
+| `rip()` | `image` |
+| `sepia()` | `image` |
+| `spank()` | `image` `image2` |
+| `trash()` | `image` |
+| `wanted()` | `image` |
+
+### Misc
+
+| Function  | Params | Description |
+| -------- | ------ | ----------- |
+| `pagination()` | `type` `message` `pages` `emojiList` `timeout` | Cria embeds com páginas. |
+| `formatSizeUnits()` | `bytes` | Formata bytes para Yottabytes, Zettabytes, Exabytes, Petabytes, Terabytes, Gigabytes, Megabytes, Kilobytes, e Bytes. |
+| `randomCharacters()` | `length` | Cria um texto com caracteres aleatórios. |
+| `removeAcents()` | `text` | Remove acentos de um texto. |
+| `uptime()` | `message` | Mostra o uptime da sua aplicação. |
