@@ -28,6 +28,7 @@
 | `kiss()` | `image` `image2` |
 | `pixelate()` | `image` |
 | `rip()` | `image` |
+| `rotate()` | `image` `angle(optional)` |
 | `sepia()` | `image` |
 | `spank()` | `image` `image2` |
 | `trash()` | `image` |
