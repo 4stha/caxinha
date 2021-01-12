@@ -14,8 +14,11 @@
 | `blur()` | `image` |
 | `bnw()` | `image` |
 | `bolsonaro()` | `image` |
+| `brightness()` | `image` `amount` |
 | `circle()` | `image` |
-| `color()` | `image` |
+| `color()` | `color(optional)` |
+| `comunism()` | `image` |
+| `darkness()` | `image` `amount` |
 | `del()` | `image` |
 | `dither()` | `image` |
 | `facepalm()` | `image` |
@@ -23,11 +26,14 @@
 | `invert()` | `image` |
 | `jail()` | `image` |
 | `kiss()` | `image` `image2` |
+| `pixelate()` | `image` |
 | `rip()` | `image` |
 | `sepia()` | `image` |
 | `spank()` | `image` `image2` |
 | `trash()` | `image` |
+| `threshold()` | `image` `amount(optional)` |
 | `wanted()` | `image` |
+| `wasted()` | `image` |
 
 ### Misc
 
@@ -38,3 +44,5 @@
 | `randomCharacters()` | `length` | Cria um texto com caracteres aleatórios. |
 | `removeAcents()` | `text` | Remove acentos de um texto. |
 | `uptime()` | `message` | Mostra o uptime da sua aplicação. |
+
+#Examples on https://www.npmjs.com/package/caxinha
