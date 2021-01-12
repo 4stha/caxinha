@@ -45,4 +45,4 @@
 | `removeAcents()` | `text` | Remove acentos de um texto. |
 | `uptime()` | `message` | Mostra o uptime da sua aplicação. |
 
-#Examples on https://www.npmjs.com/package/caxinha
+# Examples on https://www.npmjs.com/package/caxinha
