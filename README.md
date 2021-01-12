@@ -42,6 +42,7 @@
 | -------- | ------ | ----------- |
 | `pagination()` | `type` `message` `pages` `emojiList` `timeout` | Cria embeds com páginas. |
 | `formatSizeUnits()` | `bytes` | Formata bytes para Yottabytes, Zettabytes, Exabytes, Petabytes, Terabytes, Gigabytes, Megabytes, Kilobytes, e Bytes. |
+| `getRandomInt()` | `min` `max` | Escolhe um número de acordo com o número mínimo e o máximo. |
 | `randomCharacters()` | `length` | Cria um texto com caracteres aleatórios. |
 | `removeAcents()` | `text` | Remove acentos de um texto. |
 | `uptime()` | `message` | Mostra o uptime da sua aplicação. |
