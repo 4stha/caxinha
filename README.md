@@ -26,15 +26,23 @@
 | `invert()` | `image` |
 | `jail()` | `image` |
 | `kiss()` | `image` `image2` |
+| `magik()` | `image` |
 | `pixelate()` | `image` |
 | `rip()` | `image` |
 | `rotate()` | `image` `angle(optional)` |
 | `sepia()` | `image` |
+| `stickbug()` | `image` |
 | `spank()` | `image` `image2` |
 | `trash()` | `image` |
 | `threshold()` | `image` `amount(optional)` |
 | `wanted()` | `image` |
 | `wasted()` | `image` |
+
+### Gif
+
+| Functions  |
+| -------- |
+| `cuddle()` `feed()` `hug()` `kiss()` `pat()` `poke()` `slap()` `tickle()` |
 
 ### Misc
 
